@@ -1,6 +1,5 @@
 # GAN-CIFAR10
 
-## Overview
 This ReadMe provides an overview and guidance on implementing Generative Adversarial Networks (GANs), a popular deep learning technique for generating synthetic data. GANs consist of two neural networks, a generator and a discriminator, that compete against each other in a zero-sum game. The generator aims to create realistic synthetic data samples, while the discriminator tries to distinguish between real and synthetic samples.
 
 This guide assumes a basic understanding of deep learning and neural networks. It outlines the general steps involved in implementing GANs and offers some tips and best practices.
