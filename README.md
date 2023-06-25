@@ -32,6 +32,8 @@ Loss Functions: Define appropriate loss functions for the generator and discrimi
 
 7. Evaluation: Evaluate the performance of your trained GAN by generating synthetic samples and comparing them with real data. You can use metrics such as the Inception Score or Fréchet Inception Distance (FID) to assess the quality and diversity of the generated samples.
 
+![](https://i.imgur.com/v9pz8c4.png)
+
 ## Best Practices and Tips
 - Use architectural guidelines: The choice of generator and discriminator architectures can greatly influence GAN performance. Consider using established guidelines, such as deep convolutional architectures, to ensure stability and better results.
 
